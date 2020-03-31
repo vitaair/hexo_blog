@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/next/source/images/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/images/wechatpay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZedlXhhpKfXGOUxxdvVq7aMFd1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\blog\hexo_blog\source\_posts" />
+      <recent name="C:\Code\blog\hexo_blog" />
+      <recent name="C:\Code\blog\hexo_blog\themes\next\source\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\blog\hexo_blog\source\about" />
+      <recent name="C:\Code\blog\hexo_blog\themes\next\source\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\vitaair\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="" />
+      <created>1585203644445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585203644445</updated>
+      <workItem from="1585203645534" duration="1295000" />
+      <workItem from="1585205757744" duration="1026000" />
+      <workItem from="1585206797571" duration="853000" />
+      <workItem from="1585207665848" duration="3321000" />
+      <workItem from="1585211990471" duration="277000" />
+      <workItem from="1585212307652" duration="68000" />
+      <workItem from="1585212572055" duration="176000" />
+      <workItem from="1585212761643" duration="653000" />
+      <workItem from="1585641814420" duration="20555000" />
+      <workItem from="1585667982561" duration="283000" />
+      <workItem from="1585668279571" duration="7537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/hexo-theme-next" />
+      <path value="$PROJECT_DIR$/themes/even" />
+      <path value="$PROJECT_DIR$/themes/themes/even" />
+      <path value="$PROJECT_DIR$/themes/hexo-theme-next" />
+      <path value="$PROJECT_DIR$/themes/themes/next" />
+      <path value="$PROJECT_DIR$/themes/hexo-theme-Chic" />
+      <path value="$PROJECT_DIR$/themes/yelee" />
+    </ignored-roots>
+  </component>
+</project>
