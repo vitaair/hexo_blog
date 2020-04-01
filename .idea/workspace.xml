@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="commit today">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/scripts/filters/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/scripts/filters/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/js/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/js/utils.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZedlXhhpKfXGOUxxdvVq7aMFd1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\blog\hexo_blog\source\_posts" />
+      <recent name="C:\Code\blog\hexo_blog" />
+      <recent name="C:\Code\blog\hexo_blog\themes\next\source\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\blog\hexo_blog\source\about" />
+      <recent name="C:\Code\blog\hexo_blog\themes\next\source\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\vitaair\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="" />
+      <created>1585203644445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585203644445</updated>
+      <workItem from="1585203645534" duration="1295000" />
+      <workItem from="1585205757744" duration="1026000" />
+      <workItem from="1585206797571" duration="853000" />
+      <workItem from="1585207665848" duration="3321000" />
+      <workItem from="1585211990471" duration="277000" />
+      <workItem from="1585212307652" duration="68000" />
+      <workItem from="1585212572055" duration="176000" />
+      <workItem from="1585212761643" duration="653000" />
+      <workItem from="1585641814420" duration="20555000" />
+      <workItem from="1585667982561" duration="283000" />
+      <workItem from="1585668279571" duration="7537000" />
+      <workItem from="1585676257489" duration="410000" />
+      <workItem from="1585677028347" duration="800000" />
+      <workItem from="1585678246012" duration="1052000" />
+      <workItem from="1585711818274" duration="4167000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit one">
+      <created>1585677562904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585677562904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git常用命令.md">
+      <created>1585678420037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585678420037</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit git命令">
+      <created>1585679212533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585679212533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 礼佛大忏悔文.md">
+      <created>1585712172359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585712172360</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 礼佛大忏悔文">
+      <created>1585712554680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585712554680</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1585714778522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585714778522</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit one">
+      <created>1585723376627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723376627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit one">
+      <created>1585723432617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723432617</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit 2">
+      <created>1585723918607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723918607</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/hexo-theme-next" />
+      <path value="$PROJECT_DIR$/themes/even" />
+      <path value="$PROJECT_DIR$/themes/themes/even" />
+      <path value="$PROJECT_DIR$/themes/hexo-theme-next" />
+      <path value="$PROJECT_DIR$/themes/themes/next" />
+      <path value="$PROJECT_DIR$/themes/hexo-theme-Chic" />
+      <path value="$PROJECT_DIR$/themes/yelee" />
+    </ignored-roots>
+    <MESSAGE value="git常用命令.md" />
+    <MESSAGE value="commit git命令" />
+    <MESSAGE value="commit 礼佛大忏悔文.md" />
+    <MESSAGE value="commit 礼佛大忏悔文" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit one" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
