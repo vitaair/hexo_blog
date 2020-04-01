@@ -186,7 +186,7 @@ auto_excerpt:
 打开**主题配置文件**,搜索关键字 Blog rolls,添加自己需要的链接：
 
 ```text
-links: #连接
+links: #链接接
   baidu: https://www.baidu.com/
   google: https://www.google.com/
 ```
