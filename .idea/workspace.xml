@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/next/source/images/alipay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/images/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/images/wechatpay.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="commit one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +16,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -70,6 +65,9 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
     <option name="myConnectionType" value="NONE" />
@@ -96,8 +94,67 @@
       <workItem from="1585667982561" duration="283000" />
       <workItem from="1585668279571" duration="7537000" />
       <workItem from="1585676257489" duration="410000" />
-      <workItem from="1585677028347" duration="258000" />
+      <workItem from="1585677028347" duration="800000" />
+      <workItem from="1585678246012" duration="1052000" />
+      <workItem from="1585711818274" duration="3701000" />
     </task>
+    <task id="LOCAL-00001" summary="commit one">
+      <created>1585677562904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585677562904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git常用命令.md">
+      <created>1585678420037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585678420037</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit git命令">
+      <created>1585679212533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585679212533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 礼佛大忏悔文.md">
+      <created>1585712172359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585712172360</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 礼佛大忏悔文">
+      <created>1585712554680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585712554680</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1585714778522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585714778522</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit one">
+      <created>1585723376627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723376627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit one">
+      <created>1585723432617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723432617</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,5 +183,12 @@
       <path value="$PROJECT_DIR$/themes/hexo-theme-Chic" />
       <path value="$PROJECT_DIR$/themes/yelee" />
     </ignored-roots>
+    <MESSAGE value="git常用命令.md" />
+    <MESSAGE value="commit git命令" />
+    <MESSAGE value="commit 礼佛大忏悔文.md" />
+    <MESSAGE value="commit 礼佛大忏悔文" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit one" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit one" />
   </component>
 </project>
