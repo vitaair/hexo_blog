@@ -57,3 +57,23 @@ git push -u origin master
 ```
 
 > `push`的`-u`参数是设置本地仓库默认的`upstream`,这里就是把本地仓库同远程仓库的master分支进行关联，之后在这个仓库pull时不带参数也默认从master分支拉取。
+
+### 删除.idea 文件夹
+
+```bash
+git rm -r --cached .idea  #--cached不会把本地的.idea删除
+git commit -m 'delete .idea dir'
+git push -u origin mastergit remote add origin git@github.com:vitaair/hexo_blog.git
+# 把本地仓库内容push到远程仓库的master分支 
+git push -u origin master
+```
+
+### 删除.iml文件(先手动删除iml文件,再操作如下指令即可)
+
+```bash
+git status                       # 查看当前状态，确认是否已经删除了iml文件
+git pull                         # 不是必要步骤，只要能保证项目是最新的即可
+git add .                        # add后面有一个空格然后是 . 号，添加改变的文件
+git commit -m 'delete iml file'  # 提交到本地仓库
+git push                         # 提交到远程仓库
+```
