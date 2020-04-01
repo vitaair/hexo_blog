@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="commit one">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
+    <list default="true" id="c36555a8-3208-4be5-ac3c-2cc0f586fe63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/111111.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +14,12 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -96,7 +100,7 @@
       <workItem from="1585676257489" duration="410000" />
       <workItem from="1585677028347" duration="800000" />
       <workItem from="1585678246012" duration="1052000" />
-      <workItem from="1585711818274" duration="3701000" />
+      <workItem from="1585711818274" duration="4167000" />
     </task>
     <task id="LOCAL-00001" summary="commit one">
       <created>1585677562904</created>
@@ -154,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585723432617</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit 2">
+      <created>1585723918607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723918607</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +200,7 @@
     <MESSAGE value="commit 礼佛大忏悔文" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit one" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit one" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
 </project>
